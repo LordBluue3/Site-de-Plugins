@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Apr 2021 12:50:20 at https://www.nickuc.com/pt/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt, en, *" https://www.nickuc.com/pt/ -O1 "C:\Users\mikael\Documents\aProjetosSites\uDaddyHenrique Plugins\uDaddyHenrique Plugins" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:50:21	Warning: 	Found for https://www.nickuc.com/robots.txt
+12:50:21	Warning: 	File has moved from https://www.nickuc.com/robots.txt to https://www.nickuc.com/error?t=404&from=/robots.txt
+12:50:52	Error: 	"Service Temporarily Unavailable" (503) at link https://proxy.spigotmc.org/f2859d891689e84faf058d520815d633f55d2806?url=http%3A%2F%2Fstatus.mclive.eu%2Ftest.nickuc.com%2Ftest.nickuc.com%2F25565%2Fbanner.png (from https://www.nickuc.com/pt/details/nantibot)
+12:50:52	Error: 	"Not Found" (404) at link https://www.nickuc.com/error?t=404&from=/pt/details/app/content/assets/lib/font-awesome/css/font-awesome.min.css (from https://www.nickuc.com/pt/details/nreport)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 52 links scanned, 48 files written (1852655 bytes overall) [1579040 bytes received at 49345 bytes/sec], 453295 bytes transferred using HTTP compression in 21 files, ratio 20%, 6.5 requests per connection
+(2 errors, 2 warnings, 0 messages)

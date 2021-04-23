@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.nickuc.com	TRUE	/	FALSE	1999999999	__cfduid	d9b3cb608f81b8c09fd8f7592d6aee69a1617897026
+www.nickuc.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.spigotmc.org	TRUE	/	FALSE	1999999999	__cfduid	db705ac3f8a2fbf56688e4cce2b8c47871617897038
+proxy.spigotmc.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.nickuc.com	TRUE	/	FALSE	1999999999	PHPSESSID	697bka74jkp2flq65aj7vom5tm
+.alphacoders.com	TRUE	/	FALSE	1999999999	__cfduid	d10e541f4c0c6df476b34836ab47c632b1617897056
+images5.alphacoders.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
